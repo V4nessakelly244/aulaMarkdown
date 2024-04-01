@@ -15,3 +15,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# pesquisa engenharia de requisitos 
+
+**Conceito**:  
